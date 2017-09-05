@@ -1,2 +1,0 @@
-# cursoJava
-Validacion de repositorio
